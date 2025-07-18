@@ -1,0 +1,1 @@
+This project is a responsive fitness blog designed to promote health and wellness through engaging content and clean design. Built using HTML for structure, CSS for styling, and JavaScript for interactivity, the blog features a dynamic homepage with a header, navigation menu, and sections dedicated to workouts and nutrition tips.
